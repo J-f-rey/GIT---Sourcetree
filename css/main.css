@@ -13,6 +13,6 @@ main {
   box-shadow: 3px 3px 15px rgba(0,0,0,.5);
 }
 
-footer {
+main > footer {
   background-color: green;
 }
